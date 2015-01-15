@@ -234,3 +234,22 @@
         }
     }
 }
+
+/**
+ * Projects
+ */
+.project-list div {
+    width: 300px;
+    height: 300px;
+    background-color: #CCCCCC;
+    margin: 10px;
+    float: left;
+    display: block;
+    position: relative;
+}
+
+.project-list div span {
+    width: 100%;
+    padding: 20px;
+    display: block;
+}

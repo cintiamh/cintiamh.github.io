@@ -1,11 +1,12 @@
 # Site settings
 title: Cintia Higashi
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is just a space for me and my stuff.
+  Just another Web Developer that loves what she does.
+  I am currently working as a Front Engineer Software Engineer at Yahoo!, making cool ads for the Yahoo!'s home page and
+  developing tools to make the everyday work easier.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cintiamh.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: panda_japa
 github_username:  cintiamh
 
 # Build settings
