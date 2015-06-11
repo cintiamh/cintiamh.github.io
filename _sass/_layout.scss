@@ -2,13 +2,59 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
+    background-color: #333745;
+    width: 100%;
     position: relative;
+    text-align: center;
+    padding: 30px 0;
+
+
+    #face {
+        width: 100px;
+        height: 100px;
+        overflow: hidden;
+        border: 2px solid white;
+        margin: 0 auto;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%; /* future proofing */
+        -khtml-border-radius: 50%; /* for old Konqueror browsers */
+
+        img {
+            width: 100px;
+        }
+    }
+
+    h1 {
+        font-size: 3em;
+        color: #FFFFFF;
+    }
+
+    h2 {
+        padding: 0;
+        font-size: 2em;
+        color: #FFFFFF;
+    }
+
+    #media {
+        padding: 30px;
+
+        .social {
+            width: 30px;
+            height: 30px;
+            margin: 20px;
+
+            a {
+                text-underline: none;
+            }
+
+            img {
+                width: 30px;
+            }
+        }
+    }
 }
+
 
 .site-title {
     font-size: 26px;
@@ -92,8 +138,40 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    width: 100%;
+    background-color: #333745;
+    padding: 20px 10px;
+
+    p {
+        color: white;
+        font-weight: lighter;
+        font-size: 0.9em;
+    }
+
+    h1 {
+        color: #DAEDE2;
+        font-weight: lighter;
+        font-size: 1.5em;
+        padding: 10px 0;
+    }
+
+    .media {
+        padding: 30px 0;
+
+        .social {
+            width: 20px;
+            height: 20px;
+            margin: 20px;
+
+            a {
+                text-underline: none;
+            }
+
+            img {
+                width: 20px;
+            }
+        }
+    }
 }
 
 .footer-heading {
