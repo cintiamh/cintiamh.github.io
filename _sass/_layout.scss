@@ -175,6 +175,44 @@
 /**
  * Projects
  */
+
+.project {
+    width: 25%;
+    min-width: 250px;
+    display: block;
+    position: relative;
+    float: left;
+    padding: 20px 0;
+
+    .project-content {
+        display: block;
+        width: 230px;
+        height: 230px;
+        margin: 10px auto;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%; /* future proofing */
+        -khtml-border-radius: 50%; /* for old Konqueror browsers */
+        background-color: #EAEAFF;
+        position: relative;
+
+        h2 {
+            width: 100%;
+            text-align: center;
+            color: #EA2E49;
+            position: absolute;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -moz-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            -o-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+    }
+}
+
+
+
 .project-list div {
     width: 300px;
     height: 300px;

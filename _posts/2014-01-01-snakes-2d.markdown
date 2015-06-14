@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Snakes 2D"
+date: 2014-01-01
+img: /img/projects/snakes2d.png
+categories: projects
+---
+
+![Snakes 2D]({{file.path}}/img/projects/snakes2d.png)
+
+* [GitHub]
+* [Demo]
+
+This is a simple HTML5 Snakes game.
+
+The game's grid size is responsible, resizing automatically according to the browser's window size.
+
+The snake grows up one "square" every time it eats an apple (red circle) and also speeds up a little bit each time.
+
+Commands are the directional arrows.
+
+
+[GitHub]: https://github.com/cintiamh/snakes2d
+[Demo]: http://cintiamh.github.io/snakes2d/
