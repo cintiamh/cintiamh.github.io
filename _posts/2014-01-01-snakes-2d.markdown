@@ -8,8 +8,8 @@ categories: projects
 
 ![Snakes 2D]({{file.path}}/img/projects/snakes2d.png)
 
-* [GitHub]
-* [Demo]
+* <a href="https://github.com/cintiamh/snakes2d" target="_blank">GitHub</a>
+* <a href="http://cintiamh.github.io/snakes2d/" target="_blank">Demo</a>
 
 This is a simple HTML5 Snakes game.
 
@@ -19,6 +19,3 @@ The snake grows up one "square" every time it eats an apple (red circle) and als
 
 Commands are the directional arrows.
 
-
-[GitHub]: https://github.com/cintiamh/snakes2d
-[Demo]: http://cintiamh.github.io/snakes2d/
