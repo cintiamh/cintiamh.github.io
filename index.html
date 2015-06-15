@@ -9,9 +9,12 @@ layout: default
 <ul class="post-list">
   {% for post in site.posts %}
   <li class="project">
-    <a class="project-content" href="{{ post.url | prepend: site.baseurl }}" style="background-image: url('{{file.path}}{{post.img}}')">
-      <h2>{{ post.title }}</h2>
-    </a>
+    <div class="project-unit" style="background-image: url('{{file.path}}{{post.img}}')">
+      <a class="project-link" href="{{ post.url | prepend: site.baseurl }}"></a>
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2>{{ post.title }}</h2>
+      </a>
+    </div>
   </li>
   {% endfor %}
 </ul>
