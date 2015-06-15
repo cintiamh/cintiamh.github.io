@@ -8,6 +8,7 @@ layout: default
 
 <ul class="post-list">
   {% for post in site.posts %}
+  {% if post.visible %}
   <li class="project">
     <div class="project-unit" style="background-image: url('{{file.path}}{{post.img}}')">
       <a class="project-link" href="{{ post.url | prepend: site.baseurl }}"></a>
@@ -16,6 +17,7 @@ layout: default
       </a>
     </div>
   </li>
+  {% endif %}
   {% endfor %}
 </ul>
 

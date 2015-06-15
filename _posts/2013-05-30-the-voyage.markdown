@@ -4,6 +4,7 @@ title: "The Voyage"
 date: 2013-05-30
 img: /img/projects/the-voyage.png
 categories: projects
+visible: 1
 ---
 
 ![The Voyage]({{file.path}}/img/projects/the-voyage.png)

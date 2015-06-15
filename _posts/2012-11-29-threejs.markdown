@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Three.js Simulation"
+date: 2012-11-29
+img: /img/projects/ThreeJSSim.png
+categories: projects
+visible: 1
+---
+
+![Space Invaders]({{file.path}}/img/projects/ThreeJSSim.png)
+
+* <a href="https://github.com/cintiamh/Labs/tree/master/three_animation" target="_blank">GitHub</a>
+* <a href="http://lab.pandajapa.com/three_animation/index.html" target="_blank">Demo</a>
+
+The goal was to build a JavaScript 3D simulation to get the ropes of Three.js library.
+
+Here I have a simple 3D simulation made using HTML5 canvas and just JavaScript.

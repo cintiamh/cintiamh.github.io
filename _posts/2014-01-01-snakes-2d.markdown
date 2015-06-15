@@ -4,6 +4,7 @@ title: "Snakes 2D"
 date: 2014-01-01
 img: /img/projects/snakes2d.png
 categories: projects
+visible: 1
 ---
 
 ![Snakes 2D]({{file.path}}/img/projects/snakes2d.png)

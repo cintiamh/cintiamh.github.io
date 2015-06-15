@@ -4,6 +4,7 @@ title: "Minesweeper"
 date: 2013-05-26
 img: /img/projects/minesweeper.png
 categories: projects
+visible: 1
 ---
 
 ![Space Invaders]({{file.path}}/img/projects/minesweeper.png)

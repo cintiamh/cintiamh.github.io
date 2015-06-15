@@ -4,6 +4,7 @@ title: "Space Invaders"
 date: 2013-05-27
 img: /img/projects/space_invaders.png
 categories: projects
+visible: 1
 ---
 
 ![Space Invaders]({{file.path}}/img/projects/space_invaders.png)

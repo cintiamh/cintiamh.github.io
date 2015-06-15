@@ -4,6 +4,7 @@ title: "Asteroids"
 date: 2013-05-28
 img: /img/projects/asteroids.png
 categories: projects
+visible: 1
 ---
 
 ![Asteroids]({{file.path}}/img/projects/asteroids.png)

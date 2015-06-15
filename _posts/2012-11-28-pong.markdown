@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Pong"
+date: 2012-11-28
+img: /img/projects/Pong.png
+categories: projects
+visible: 1
+---
+
+![Space Invaders]({{file.path}}/img/projects/Pong.png)
+
+* <a href="https://github.com/cintiamh/Labs/tree/master/pong_html5" target="_blank">GitHub</a>
+* <a href="http://lab.pandajapa.com/pong_html5/index.html" target="_blank">Demo</a>
+
+The goal was to build a simple JavaScript game.
+
+Here I have a simple pong game made using HTML5 canvas and just JavaScript.

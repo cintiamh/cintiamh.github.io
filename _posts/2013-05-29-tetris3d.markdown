@@ -4,6 +4,7 @@ title: "Tetris 3D"
 date: 2013-05-29
 img: /img/projects/tetris3d.png
 categories: projects
+visible: 1
 ---
 
 ![Tetris 3D]({{file.path}}/img/projects/tetris3d.png)

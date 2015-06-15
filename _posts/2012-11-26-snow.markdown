@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Snow"
+date: 2012-11-26
+img: /img/projects/Snow.png
+categories: projects
+visible: 1
+---
+
+![Space Invaders]({{file.path}}/img/projects/Snow.png)
+
+* <a href="https://github.com/cintiamh/Labs/tree/master/snow_particles" target="_blank">GitHub</a>
+* <a href="http://lab.pandajapa.com/snow_particles/index.html" target="_blank">Demo</a>
+
+This is a simple HTML5 particle simulation.
+
+
