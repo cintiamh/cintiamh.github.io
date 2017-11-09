@@ -10,10 +10,9 @@ visible: 1
 ![Tetris 3D]({{file.path}}/img/projects/tetris3d.png)
 
 * <a href="https://github.com/cintiamh/EDS/tree/master/Tetris3D" target="_blank">GitHub</a>
-* <a href="http://lab.pandajapa.com/eds/tetris3d/" target="_blank">Demo</a>
+* <a href="https://cintiamh.github.io/EDS/Tetris3D/" target="_blank">Demo</a>
 
 The goal was to build a JavaScript game in order to get to know better the JavaScript programming workflow and HTML5's
 3D development.
 
 Here I have a simple Tetris 3D clone game made using HTML5 canvas and Three.js for 3D rendering.
-

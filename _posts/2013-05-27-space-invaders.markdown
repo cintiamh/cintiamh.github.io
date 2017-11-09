@@ -10,7 +10,7 @@ visible: 1
 ![Space Invaders]({{file.path}}/img/projects/space_invaders.png)
 
 * <a href="https://github.com/cintiamh/EDS/tree/master/space_invaders2" target="_blank">GitHub</a>
-* <a href="http://lab.pandajapa.com/eds/space_invaders/" target="_blank">Demo</a>
+* <a href="https://cintiamh.github.io/EDS/space_invaders2/" target="_blank">Demo</a>
 
 The goal was to build a JavaScript game in order to get to know better the JavaScript programming workflow.
 
